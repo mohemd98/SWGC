@@ -1,0 +1,223 @@
+/* Start main  */
+body{
+   
+   background-color: #f0ecec;
+
+}
+a{
+   text-decoration: none;
+}
+.asterisk{
+
+  font-size: 30px;
+  position: absolute;
+  right: 30px;
+  top: 8px;
+  color: red;
+
+}
+.nice-message{
+  padding: 10px;
+  background-color: wheat;
+  margin: 10px 0;
+  border-left:5px solid #080 ;
+}
+/* End min */
+/*Strat Dashborard page*/
+
+.home-stats .stat{
+    text-align: center;
+    padding: 20px;
+    font-size: 15px;
+    color: #fff; 
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+ }
+ 
+ .home-stats .stat i{
+     position: absolute;
+     font-size: 80px;
+     top: 35px;
+     left: 30px;
+ }
+ 
+ .home-stats .stat .info{
+    float: right;
+ }
+ 
+ .home-stats .stat span{
+   display: block;
+   font-size: 50px;
+  
+ }
+ 
+ .home-stats .stat a{
+   color: #fff;
+  }
+  .home-stats .stat a:hover{
+     text-decoration: none;
+  }
+ 
+ .home-stats .s1{
+   background-color: rgb(33, 51, 78);
+}
+ .home-stats .s2{
+    background-color: rgb(33, 51, 78);
+ }
+ .home-stats  .s3{
+   background-color: rgb(33, 51, 78);
+}
+ .home-stats  .s4{
+   background-color: rgb(33, 51, 78);
+}
+ 
+ .latest{
+    margin-top: 30px;
+ }
+ .latest .toggle-info{
+    color: #999;
+    cursor: pointer;
+    float: left;
+ }
+ .latest .dfsdf{
+   float: left;
+ }
+ .latest .toggle-info:hover{
+    color: #999;
+ }
+ .latest-users{
+ margin-bottom: 0;
+ }
+ .latest-users li{
+ padding: 5px 0;
+ overflow: hidden;
+ /* vido 46 تفيد البوتن الي سوينا علمود يتنسق */
+ }
+ .latest-users .btn-success
+ .latest-users .btn-info{
+    padding: 2px 8px ;
+ }
+ .latest-users .btn-info{
+    margin-right: 5px;
+ }
+ .latest-users li:nth-child(odd){
+    background-color: #eee;
+ }
+ 
+ .latest .comment-box{
+   margin: 5px 0 10px;
+ }
+ .latest .comment-box .membern,
+ .latest .comment-box .memberc{
+    float: left;
+  }
+  .latest .comment-box .membern{
+     width: 80px;
+     text-align: center;
+     margin-right: 20px;
+     position: relative;
+     top: 10px;
+  }
+  .latest .comment-box .memberc{
+ width: calc(100% - 100px);
+ background-color: #EFEFEF;
+ padding: 10px;
+ position: relative;
+ }
+ .latest .comment-box .memberc:before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: -28px;
+    top: 5px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-color: transparent #EFEFEF transparent transparent ;
+    border-width: 15px;
+ }
+  
+ 
+ 
+ /*end Dashborard page*/
+ .dfasgfg{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+
+/* ------------------------------------------------------------------ */
+/* scrole */
+body::-webkit-scrollbar {
+   width: 12px;               /* width of the entire scrollbar */
+ }
+ 
+ body::-webkit-scrollbar-track {
+   background: orange;        /* color of the tracking area */
+ }
+ 
+ body::-webkit-scrollbar-thumb {
+   background-color: blue;    /* color of the scroll thumb */
+   border-radius: 20px;       /* roundness of the scroll thumb */
+   border: 3px solid orange;  /* creates padding around scroll thumb */
+ }
+
+
+
+
+::-webkit-scrollbar-track
+{
+  border: 5px solid white;
+  /* // border color does not support transparent on scrollbar */
+  /* // border-color: transparent; */
+  background-color: #b2bec3;
+}
+
+::-webkit-scrollbar
+{
+  width: 12px;
+  background-color: #dfe6e9;
+}
+
+::-webkit-scrollbar-thumb
+{
+  background-color: #74b9ff;
+  border-radius: 10px;
+   width: 12px;
+}
+
+::-webkit-scrollbar {
+   width: 12px;               /* width of the entire scrollbar */
+ }
+ 
+ ::-webkit-scrollbar-track {
+   background: orange;        /* color of the tracking area */
+ }
+ 
+ ::-webkit-scrollbar-thumb {
+   background-color: blue;    /* color of the scroll thumb */
+   border-radius: 20px;       /* roundness of the scroll thumb */
+   border: 3px solid orange;  /* creates padding around scroll thumb */
+ }
+
+ .jdashg{
+   background-color: #19283f !important;
+    color: white !important;
+ }
+
+ .jdashg a{
+    color: rgb(255, 255, 255) !important;
+ }
+
+ .jdashg .actv{
+    color: #33d1cc !important;
+ }
+ .jdashg .dafdshdfh{
+   color: rgb(0, 234, 255) !important;
+}

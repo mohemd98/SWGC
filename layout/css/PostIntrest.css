@@ -1,0 +1,50 @@
+.postintrest{
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.postintrest .photo img{
+    max-width: 300px;
+    max-height: 300px;
+    min-width: 300px;
+    min-width: 300px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.improve{
+    max-height: 600px;
+    overflow-y: auto;
+
+}
+.improve .gg{
+    background-color: white;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.improve .gg a:hover{
+   color: blue;
+   text-decoration: underline;
+   font-size: 33px;
+}
+.improve .lavl1e{
+    width: 90px ; 
+    height: 90px; 
+    border-radius: 50%;
+}
+.improve .lavl2e{
+    text-decoration: none;
+     font-size: 30px; 
+     margin-left: 20px;
+      margin-right: 20px;
+    color: black;
+}

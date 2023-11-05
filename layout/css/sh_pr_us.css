@@ -1,0 +1,159 @@
+
+/* all */
+.navbarforsu a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.navbarforsu button{
+    border: 2px solid black;
+    background-color: rgb(75, 162, 189);
+    border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    -ms-border-radius: 20px 20px 20px 20px;
+    -o-border-radius: 20px 20px 20px 20px;
+}
+
+/* post -------------------------------------------------- */
+.fromprofal .totilpostus {
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    width: 100%;
+    min-height: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.fromprofal .totilpostus .lavl1 img {
+    max-width: 60px;
+    max-height: 60px;
+    border-radius: 50%;
+}
+
+.fromprofal .totilpostus .lavl1 a {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+
+.fromprofal .totilpostus .lavl3 h3 {
+    display: inline-block;
+}
+
+.fromprofal .totilpostus .lavl2 {
+    text-align: center;
+}
+
+.fromprofal .totilpostus .lavl2 img {
+    max-width: 80%;
+    max-height: 300px;
+    border-radius: 5%;
+}
+.fromprofal button{
+    max-height: 3rem ;
+    min-height: 3rem ;
+}
+
+
+/* start gallery */
+
+.gallery {
+    width: 800px;
+    max-height: 600px;
+    margin: auto;
+    border: 1px solid #ccc;
+    background-color: #fff;
+} 
+.gallery .master-img {
+    height: 400px;
+    position: relative;
+}
+.gallery .master-img i{
+ padding: 10px;
+ position: absolute;
+ top: 0;
+ background-color: rgb(255, 8, 0);
+ cursor: pointer;
+ z-index: 2;
+}
+.gallery .master-img img{
+min-width: 800px;
+min-height: 400px;
+max-width: 6800px;
+max-height: 400px;
+}
+
+.gallery .master-img .left{
+left: 0;
+}
+.gallery .master-img .right{
+  right: 0;
+ }
+
+
+.gallery img{
+    max-width: 100%;
+}
+.gallery .thumbnails{
+    overflow: hidden;
+}
+.gallery .thumbnails img{
+    float: left;
+    border: 3PX solid #BBB;
+    cursor: pointer;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+
+    opacity: .6;  /* يخلي مثل الظباب ع صور فد شي */ 
+   
+}
+.gallery .thumbnails img:last-child{
+  margin-right: 0  !important;
+}
+
+
+.gallery .thumbnails img.selected{
+  border: 3PX solid rgb(226, 17, 17);
+  opacity: 1;
+}
+
+.skin-background{
+
+  color: blue;
+  
+}
+/* end gallery */
+
+/* skillsshow */
+.skillsshow{
+margin: 0;
+padding: 0;
+}
+
+/* pdfsohw */
+.pdfsohw{
+  width: 30%;
+  height: 600px;
+  overflow: auto;
+}
+.pdfsohw .tb {
+    position: sticky;top: 0;
+}
+
+.hkgj{
+    font-weight: bold;
+    font-size: 20px;
+}
+.ddddf{
+    font-size: 17px ;
+    font-weight: bold;
+}
+.fdgjfgjfghjghj{
+    background-color: red ;
+}

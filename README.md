@@ -67,20 +67,30 @@
 
 ![14](https://github.com/mohemd98/SWGC/assets/108370897/817e6dbb-28c2-4e47-a0b4-b40e984897df)
 
-####
+>When you click on the Add Skill button, a window opens for him where he can specify his rating for each skill, detailed according to its level, if it is (little, average, good, very good, excellent) as well.
+
 ![15](https://github.com/mohemd98/SWGC/assets/108370897/e3bccf12-f78b-4ba3-aaa3-af0ea1ce4885)
+
 ####
+
 ![16](https://github.com/mohemd98/SWGC/assets/108370897/de9882b4-ac32-453d-a8d8-87f81e933c9e)
+
 ####
 ![17](https://github.com/mohemd98/SWGC/assets/108370897/2f3a13ce-92e9-40f5-a92a-4f1184f2abd1)
+
 ####
 ![18](https://github.com/mohemd98/SWGC/assets/108370897/f1fad6e1-2fee-46b2-a3bf-a5306a77f78b)
+
 ####
 ![19](https://github.com/mohemd98/SWGC/assets/108370897/57320bfa-1c17-4faa-85b2-e51caad36846)
+
 ####
 ![20](https://github.com/mohemd98/SWGC/assets/108370897/d84ac926-ba7f-4606-aaf4-c7b9389d4cb2)
+
 ####
 ![21](https://github.com/mohemd98/SWGC/assets/108370897/06764bae-2258-4b1e-86e9-caa4d82a9867)
+
 ####
 ![22](https://github.com/mohemd98/SWGC/assets/108370897/9c373ec1-d392-46a7-9c54-5902e1800ad7)
+
 

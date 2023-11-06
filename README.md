@@ -6,17 +6,25 @@
 #### Index page
 
 ![1](https://github.com/mohemd98/SWGC/assets/108370897/ead21f6f-3800-4571-a572-cc1325b62586)
+
 #### Admin login page
 
 ![2](https://github.com/mohemd98/SWGC/assets/108370897/2b16cf9c-cfdb-4d70-8080-b1b80e248365)
+
 ####  Users login page
 
 ![3](https://github.com/mohemd98/SWGC/assets/108370897/c8445ff1-214c-44b9-bb1e-c7fbf82a7d36)
+
 #### Register a new user page
 
 ![4](https://github.com/mohemd98/SWGC/assets/108370897/52646c99-9a6a-407c-816a-6c6711794bc7)
-####
+
+#### Homepage
+> A page for adding new posts and displaying user posts, posts of people you follow only, and suggested users
+#### Suggested people 
+>It is a side page that shows people who have been suggested by the platform. It contains the user’s picture, name, general grade of the user, and a button to follow or unfollow.
 ![6](https://github.com/mohemd98/SWGC/assets/108370897/2de91ef5-80c0-4c2c-80ca-03ee8e1a2d63)
+
 ####
 ![7](https://github.com/mohemd98/SWGC/assets/108370897/9ba2a70d-25fb-4b2a-aac3-cf0e5e1eddcd)
 ####

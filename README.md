@@ -3,12 +3,10 @@
 >  [my website](https://mohemd98.github.io/MyCV/)
 
 > [for Database click her](https://github.com/mohemd98/SWGC/blob/main/work.sql)
+
 ### The platform (job search, courses and grants) is intended for business owners and those with experience who need to work or publish businesses, as it was designed to be simple and easy to use for everyone.
 
-
 #### Index page
-
-<img src="https://github.com/mohemd98/SWGC/assets/108370897/ead21f6f-3800-4571-a572-cc1325b62586" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="200" />
 
 ![1](https://github.com/mohemd98/SWGC/assets/108370897/ead21f6f-3800-4571-a572-cc1325b62586 )
 

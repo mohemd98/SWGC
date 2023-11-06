@@ -12,12 +12,9 @@
 ####  Users login page
 
 ![3](https://github.com/mohemd98/SWGC/assets/108370897/c8445ff1-214c-44b9-bb1e-c7fbf82a7d36)
-####
+#### Register a new user page
 
 ![4](https://github.com/mohemd98/SWGC/assets/108370897/52646c99-9a6a-407c-816a-6c6711794bc7)
-####
-
-![5](https://github.com/mohemd98/SWGC/assets/108370897/d88beb00-23ba-4cf2-aa36-a025420b6f2d)
 ####
 ![6](https://github.com/mohemd98/SWGC/assets/108370897/2de91ef5-80c0-4c2c-80ca-03ee8e1a2d63)
 ####

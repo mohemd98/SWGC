@@ -44,12 +44,19 @@
 #### View comments
 ![9](https://github.com/mohemd98/SWGC/assets/108370897/a88b8de7-075d-4b89-ab75-252312fbb8e4)
 
-##### kkkkkkkkkkkkkkkkkkkkkkk
+##### General page
+>In this interface, all users’ posts for the platform appear, even those who have not been followed. It contains all the details of the post and a designated place to search for a specific user by writing his name. A drop-down list appears containing the user’s name and photo, in addition to a side ruler to view more user names. When you click on the name or The image is taken to the profile page, and filtering factors have been added to the publications to facilitate the search, divided according to the governorate of residence, the type of publication (work, course, grant), what is requested (needs, search for), and gender (male, female).
+
 ![10](https://github.com/mohemd98/SWGC/assets/108370897/87ed5e05-042a-485f-978e-d374e1915389)
-####
+
+#### User search list
+
 ![11](https://github.com/mohemd98/SWGC/assets/108370897/c8a7a202-db40-41dd-a21e-bf282509d58b)
-####
+
+#### Filters
+
 ![12](https://github.com/mohemd98/SWGC/assets/108370897/4453e8f8-4cf3-452f-9ae2-2a88e89c0aa7)
+
 ####
 ![13](https://github.com/mohemd98/SWGC/assets/108370897/5f6ed901-c70f-4da8-8818-01a392c8fe46)
 ####

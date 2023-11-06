@@ -8,7 +8,7 @@
 
 #### Index page
 
-![1](https://github.com/mohemd98/SWGC/assets/108370897/ead21f6f-3800-4571-a572-cc1325b62586 =250x250)
+![1](https://github.com/mohemd98/SWGC/assets/108370897/ead21f6f-3800-4571-a572-cc1325b62586 )
 
 #### Admin login page
 

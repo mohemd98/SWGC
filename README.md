@@ -93,14 +93,18 @@ Finally, there is a photo gallery where the photos that the user has uploaded ar
 ![19](https://github.com/mohemd98/SWGC/assets/108370897/57320bfa-1c17-4faa-85b2-e51caad36846)
 
 #### post page for the public
->
+>On this page, the user’s publications are displayed, which can be viewed by other visitors to the page in order to learn more about the user’s capabilities or the available materials that were displayed on the page. It is divided into two sections to display two publications on each page, and it is arranged according to the last time sequence. For publications.
 
 ![20](https://github.com/mohemd98/SWGC/assets/108370897/d84ac926-ba7f-4606-aaf4-c7b9389d4cb2)
 
-####
+#### Show skills to the public
+>Each user has a page in which he lists all the skills that have been added to be viewed by other users. This page allows the visitor to view the skills according to the level of each skill, in addition to documents that include the certificates obtained or course certificates, where the visitor can view his capabilities and verify the certificates. Which was attached to the page.
+ 
 ![21](https://github.com/mohemd98/SWGC/assets/108370897/06764bae-2258-4b1e-86e9-caa4d82a9867)
 
-####
+#### Control page
+>It is the first page for administrators (admin), where a Navbar is displayed at the top (showing the pages so that you can navigate between them easily. After that comes the information that appears on the control page, divided into four sections, which are the number of actual users on the page and the number of posts that users have shared in The platform, the number of comments on the posts, and finally the number of files uploaded by users on the platform, and then the page was divided into four sections. Also at the top right are the accounts of the latest users registered on the platform, and any of them can be deleted, and at the top left the latest posts have been added to be deleted. As required, the most recent comments are placed at the bottom right, at the bottom left there are files with a delete button also to delete unwanted files.
+
 ![22](https://github.com/mohemd98/SWGC/assets/108370897/9c373ec1-d392-46a7-9c54-5902e1800ad7)
 
 

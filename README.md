@@ -8,7 +8,7 @@
 
 #### Index page
 
-<img src="[https://camo.githubusercontent.com/...](https://user-images.githubusercontent.com/108370897/280601584-ead21f6f-3800-4571-a572-cc1325b62586.jpg)" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="200" />
+<img src="https://github.com/mohemd98/SWGC/assets/108370897/ead21f6f-3800-4571-a572-cc1325b62586" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="200" />
 
 ![1](https://github.com/mohemd98/SWGC/assets/108370897/ead21f6f-3800-4571-a572-cc1325b62586 )
 

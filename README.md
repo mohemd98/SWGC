@@ -23,9 +23,12 @@
 > A page for adding new posts and displaying user posts, posts of people you follow only, and suggested users
 #### Suggested people 
 >It is a side page that shows people who have been suggested by the platform. It contains the user’s picture, name, general grade of the user, and a button to follow or unfollow.
+
 ![6](https://github.com/mohemd98/SWGC/assets/108370897/2de91ef5-80c0-4c2c-80ca-03ee8e1a2d63)
 
-####
+#### Add a new post
+>It is an interface that appears to the user by clicking on the installed publication icons to add the information and details that the user desires, including the image of the publication, the governorate of residence, the main title of the publication, and the description of the publication, in addition to its type, whether it is a course, work, or grant, and if I am looking for work or need workers or Employees according to gender. The requirement is that the work concerns only males or only females, or that the work can be completed by both genders, to be published through the publish button.
+
 ![7](https://github.com/mohemd98/SWGC/assets/108370897/9ba2a70d-25fb-4b2a-aac3-cf0e5e1eddcd)
 ####
 ![8](https://github.com/mohemd98/SWGC/assets/108370897/2da8287a-b9b7-4e40-849c-64ba7465a192)

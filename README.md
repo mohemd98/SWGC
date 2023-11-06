@@ -37,11 +37,14 @@
 ![image](https://github.com/mohemd98/SWGC/assets/108370897/4317b875-a6d5-4ee5-a13c-b61ac8432f80)
 
 
-####
+#### Show interested users in user posts
+
 ![8](https://github.com/mohemd98/SWGC/assets/108370897/2da8287a-b9b7-4e40-849c-64ba7465a192)
-####
+
+#### View comments
 ![9](https://github.com/mohemd98/SWGC/assets/108370897/a88b8de7-075d-4b89-ab75-252312fbb8e4)
-v
+
+##### kkkkkkkkkkkkkkkkkkkkkkk
 ![10](https://github.com/mohemd98/SWGC/assets/108370897/87ed5e05-042a-485f-978e-d374e1915389)
 ####
 ![11](https://github.com/mohemd98/SWGC/assets/108370897/c8a7a202-db40-41dd-a21e-bf282509d58b)

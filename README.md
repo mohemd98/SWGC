@@ -9,6 +9,11 @@
 
 #### Admin login page
 
+| admin         | pass     | 
+| ------------- |:--------:|
+| ali           | 1234     | 
+
+
 ![2](https://github.com/mohemd98/SWGC/assets/108370897/2b16cf9c-cfdb-4d70-8080-b1b80e248365)
 
 ####  Users login page

@@ -29,6 +29,13 @@
 #### Add a new post
 >It is an interface that appears to the user by clicking on the installed publication icons to add the information and details that the user desires, including the image of the publication, the governorate of residence, the main title of the publication, and the description of the publication, in addition to its type, whether it is a course, work, or grant, and if I am looking for work or need workers or Employees according to gender. The requirement is that the work concerns only males or only females, or that the work can be completed by both genders, to be published through the publish button.
 
+#####  posts
+>It is the part that displays the posts published by the user and those who have been followed. It shows the picture and name of the user at the top, the title and type of the post, in addition to the description that was placed for the post and all the required details. Also below the picture are icons for likes and the number of fans, and when you direct the mouse over it, the last 5 fans appear, consisting of: The name of the user who liked the post and the comment icon, and when clicking on it, a list of previous comments opens, arranged according to precedence, and a designated place for writing the comment, in addition to a button to send the comment and an icon of interest in the post that was followed. If the post is for the same user, the number of people interested in it appears, and when clicking on it, it opens. A new window contains information for those interested and also a special icon for saving the post so that it can be reviewed and communicated with the owner of the post at a later time. If the post belongs to the same user, an icon will appear for him to delete the post according to the user’s desire.
+
+![image](https://github.com/mohemd98/SWGC/assets/108370897/4317b875-a6d5-4ee5-a13c-b61ac8432f80)
+
+####
+
 ![7](https://github.com/mohemd98/SWGC/assets/108370897/9ba2a70d-25fb-4b2a-aac3-cf0e5e1eddcd)
 ####
 ![8](https://github.com/mohemd98/SWGC/assets/108370897/2da8287a-b9b7-4e40-849c-64ba7465a192)

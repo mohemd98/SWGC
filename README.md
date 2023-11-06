@@ -81,13 +81,20 @@
 
 ![17](https://github.com/mohemd98/SWGC/assets/108370897/2f3a13ce-92e9-40f5-a92a-4f1184f2abd1)
 
-####
+#### Notifications
+>In the notification bar, there is a bell-shaped icon that shows the number of notifications that the user has received, including (following, liking, comments, interests, unfollowing, saving the post). Each notification contains the name of the user and the event that occurred on the post or page.
+
 ![18](https://github.com/mohemd98/SWGC/assets/108370897/f1fad6e1-2fee-46b2-a3bf-a5306a77f78b)
 
-####
+#### Personal page for the public
+>Every user has a personal page that is for general users and is different from his own personal page. It displays all the information that the user wants to display, as it consists of the user’s picture, after which comes a button to follow or unfollow, the number of followers and unfollowers, and a general description about the user in addition to his personal information along with His other information includes email, phone number, governorate of residence, university, department, and Facebook and Telegram link.
+Finally, there is a photo gallery where the photos that the user has uploaded are displayed on his page so that the last one can be seen, which expresses his previous work and achievements in order to enhance the user’s capabilities in completing the work that he has already completed, and moving between the photos is smooth and according to the photo that you want to see.
+
 ![19](https://github.com/mohemd98/SWGC/assets/108370897/57320bfa-1c17-4faa-85b2-e51caad36846)
 
-####
+#### post page for the public
+>
+
 ![20](https://github.com/mohemd98/SWGC/assets/108370897/d84ac926-ba7f-4606-aaf4-c7b9389d4cb2)
 
 ####

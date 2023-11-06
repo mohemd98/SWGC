@@ -53,14 +53,20 @@
 
 ![11](https://github.com/mohemd98/SWGC/assets/108370897/c8a7a202-db40-41dd-a21e-bf282509d58b)
 
-#### Filters
+#### Personal information page (profile)
+>It is the user's personal information page, where it displays the personal photo, the number of followers and those who have been followed, and an icon to edit the information that was added when creating an account for the first time, and all the posts that were added, showing the details of each post and arranged according to its time frame. At the top there is a special bar with details divided according to Other pages
 
 ![12](https://github.com/mohemd98/SWGC/assets/108370897/4453e8f8-4cf3-452f-9ae2-2a88e89c0aa7)
 
-####
+#### Interface for modifying personal information
+
 ![13](https://github.com/mohemd98/SWGC/assets/108370897/5f6ed901-c70f-4da8-8818-01a392c8fe46)
-####
+
+#### Biography page
+>Through it, other information about the user is added from the college or institute and department, a detailed overview of previous work, phone number, Facebook link, Telegram ID, and on the other hand, other skills are added, if any.
+
 ![14](https://github.com/mohemd98/SWGC/assets/108370897/817e6dbb-28c2-4e47-a0b4-b40e984897df)
+
 ####
 ![15](https://github.com/mohemd98/SWGC/assets/108370897/e3bccf12-f78b-4ba3-aaa3-af0ea1ce4885)
 ####

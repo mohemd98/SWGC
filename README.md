@@ -20,7 +20,7 @@
 
 ####  Users login page
 
-| admin         | pass     | 
+| user          | pass     | 
 | ------------- |:--------:|
 | px.cd         | 123      | 
 

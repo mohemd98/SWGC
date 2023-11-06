@@ -3,13 +3,13 @@
 ### The platform (job search, courses and grants) is intended for business owners and those with experience who need to work or publish businesses, as it was designed to be simple and easy to use for everyone.
 
 
-####
+#### Index page
 
 ![1](https://github.com/mohemd98/SWGC/assets/108370897/ead21f6f-3800-4571-a572-cc1325b62586)
-####
+#### Admin login page
 
 ![2](https://github.com/mohemd98/SWGC/assets/108370897/2b16cf9c-cfdb-4d70-8080-b1b80e248365)
-####
+####  Users login page
 
 ![3](https://github.com/mohemd98/SWGC/assets/108370897/c8445ff1-214c-44b9-bb1e-c7fbf82a7d36)
 ####

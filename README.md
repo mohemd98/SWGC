@@ -71,11 +71,14 @@
 
 ![15](https://github.com/mohemd98/SWGC/assets/108370897/e3bccf12-f78b-4ba3-aaa3-af0ea1ce4885)
 
-####
+#### Documents and photos 
+>Save private documents and photos for each user so that they are a ready reference whenever he needs them to publish or send them in case he needs them to prove his work. They are divided into a special box for documents in the form of electronic files (PDF) and a special box for photos with a special button for adding photos and a special button for adding documents.
 
 ![16](https://github.com/mohemd98/SWGC/assets/108370897/de9882b4-ac32-453d-a8d8-87f81e933c9e)
 
-####
+#### Archives
+>When saving any publication that the user has saved for later review, all the information attached to it is stored on this page in the form of the publication as shown in it.
+
 ![17](https://github.com/mohemd98/SWGC/assets/108370897/2f3a13ce-92e9-40f5-a92a-4f1184f2abd1)
 
 ####
